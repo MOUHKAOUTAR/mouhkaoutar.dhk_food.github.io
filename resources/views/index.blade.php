@@ -199,7 +199,7 @@
                 <!-- Admin Section -->
                 <div class="admin-section">
                     <img id="admin-img" src="assets/images/admin2.png" alt="Admin Icon">
-                    <a id="admin-btn" href="#" class="admin-link button-style">Admin</a>
+                    <a id="admin-btn" href="#" class="admin-link button-style">Login</a>
 
                 </div>
                 <div id="role-selection" class="hidden">
@@ -223,7 +223,7 @@
                     <div class="modal-overlay">
                         <div class="modal-container">
                             <div class="modal-header">
-                                <h2>Se connecter - Administrateur</h2>
+                                <h2>Se connecter</h2>
                             <button class="close-modal" id="close-admin-modal">✖</button>
                             </div>
                             <div class="modal-body">
@@ -264,7 +264,7 @@
     <div class="modal-overlay">
         <div class="modal-container">
             <div class="modal-header">
-                <h2>Se connecter - Gérant</h2>
+                <h2>Se connecter</h2>
                 <button class="close-modal" id="close-manager-modal">✖</button>
             </div>
             <div class="modal-body">
